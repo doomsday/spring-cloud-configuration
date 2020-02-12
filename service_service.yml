@@ -1,7 +1,3 @@
-spring:
-  application:
-    name: service-service
-
 server:
   port: 0 # register under random port
 
