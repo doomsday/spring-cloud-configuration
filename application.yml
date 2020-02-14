@@ -1,2 +1,6 @@
 server:
   max_load: 33ppn
+
+datasource:
+  username: dbuser
+  password: '{cipher}b9932fd8d29f1f2e8445d26be43f942c2d00611f501e7908ae3a61c2c2b260ef'
